@@ -4,6 +4,7 @@ using namespace std;
 
 void imprimir(int a[]);
 
+//ESTO ES LA CLASE PRINCIPAL
 int main()
 {
 
